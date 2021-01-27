@@ -26,7 +26,7 @@
       	<label for="comment">Comment:</label>
       	<textarea name="comment" id="comment" cols="30" rows="5"></textarea>
       </div>
-      <button type="submit" id="submit_btn">POST</button>
+      <button type="submit" id="submit_btn">Submit</button>
       <button type="button" id="update_btn" style="display: none;">UPDATE</button>
   	</form>
   </div>
